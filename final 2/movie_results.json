@@ -1,0 +1,22 @@
+{
+    "2017": {
+        "Comedy": 20,
+        "Action": 24,
+        "Thriller": 14,
+        "Horror": 4,
+        "Fantasy": 17,
+        "Drama": 15,
+        "Documentary": 1,
+        "Romance": 3
+    },
+    "2018": {
+        "Comedy": 17,
+        "Action": 22,
+        "Thriller": 15,
+        "Horror": 7,
+        "Fantasy": 11,
+        "Drama": 10,
+        "Documentary": 0,
+        "Romance": 5
+    }
+}
